@@ -3,9 +3,12 @@
 
 > An in-depth exploratory data analysis of Netflix's global content catalog to uncover production patterns, regional trends, and strategic opportunities.
 
+
 ## 🏅 Badges
-## 📌 Badges
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Colab](https://img.shields.io/badge/Jupyter-Colab-orange.svg) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB.svg)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Jupyter/Colab](https://img.shields.io/badge/Jupyter-Colab-orange.svg)](https://colab.research.google.com/)
+[![pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB.svg)](https://seaborn.pydata.org/)
 
 ## 📖 Project Overview
 Netflix is one of the most popular global streaming platforms, boasting over 222 million subscribers and a vast library of movies and TV shows as of mid-2021. This case study explores Netflix's tabular dataset containing listings of available titles alongside attributes like cast, directors, ratings, release year, and duration. By examining catalog composition, content distribution, and temporal addition trends, this analysis provides actionable data-backed guidance on content strategy and regional growth.
