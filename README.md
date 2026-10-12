@@ -3,12 +3,8 @@
 
 > An in-depth exploratory data analysis of Netflix's global content catalog to uncover production patterns, regional trends, and strategic opportunities.
 
-
 ## 🏅 Badges
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Jupyter/Colab](https://img.shields.io/badge/Jupyter-Colab-orange.svg)](https://colab.research.google.com/)
-[![pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)](https://pandas.pydata.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB.svg)](https://seaborn.pydata.org/)
+`Python` `Jupyter / Colab` `pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ## 📖 Project Overview
 Netflix is one of the most popular global streaming platforms, boasting over 222 million subscribers and a vast library of movies and TV shows as of mid-2021. This case study explores Netflix's tabular dataset containing listings of available titles alongside attributes like cast, directors, ratings, release year, and duration. By examining catalog composition, content distribution, and temporal addition trends, this analysis provides actionable data-backed guidance on content strategy and regional growth.
@@ -59,17 +55,7 @@ Netflix is one of the most popular global streaming platforms, boasting over 222
 * **Release Timing**: Fridays experience a massive surge in content additions, strategically aligned to capture weekend binge-viewing traffic.
 * **Regional Variances**: Indian movies exhibit a higher median duration ($115\text{--}120$ minutes) compared to Western titles ($90\text{--}100$ minutes), and East Asian TV shows are heavily concentrated in single-season formats.
 
-## 🖼️ Visualizations
-* ![Top 10 Countries by Movie Count](images/top-countries-movies.png)  
-  *Compares production volume across the top 10 countries for feature films, highlighting US and Indian dominance.*
-* ![Top 10 Ratings for Movies and TV Shows](images/ratings-distribution.png)  
-  *Illustrates audience rating distributions, demonstrating the high prevalence of TV-MA and TV-14 content.*
-* ![Movie Duration Distribution Across Top Genres](images/movie-duration-box.png)  
-  *Shows runtime consistency across major movie genres, clustering tightly around 90-110 minutes.*
-* ![Content Release Year by Country Boxplot](images/release-year-country.png)  
-  *Highlights that TV shows feature much newer release dates (mostly 2017–2021) compared to historical movie archives.*
-* ![Monthly Trend of Content Additions](images/monthly-trends.png)  
-  *Tracks seasonal addition cadences highlighting mid-year and year-end ingestion spikes.*
+
 
 ## 📋 Recommendations
 * Focus platform expansion on high-growth regional markets such as South Korea, Japan, and India to diversify away from domestic US saturation.
